@@ -1,1 +1,1 @@
-web: npm start
+web: npx nodemon server/index.js
